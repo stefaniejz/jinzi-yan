@@ -744,7 +744,7 @@ span, a, a:hover {
 .portfolio .item-img h5 {
   font-size: 20px;
   position: relative;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   -webkit-transform: translateY(15px);
           transform: translateY(15px);
   -webkit-transition: all .6s;
