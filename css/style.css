@@ -742,8 +742,9 @@ span, a, a:hover {
   overflow: hidden;
 }
 .portfolio .item-img h5 {
-  font-size: 18px;
+  font-size: 20px;
   position: relative;
+  margin-bottom: 15px;
   -webkit-transform: translateY(15px);
           transform: translateY(15px);
   -webkit-transition: all .6s;
@@ -753,9 +754,9 @@ span, a, a:hover {
 }
 .portfolio .item-img h6 {
   color: #C49B66;
-  font-size: 13px;
+  font-size: 15px;
   position: relative;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   -webkit-transform: translateY(-15px);
           transform: translateY(-15px);
   -webkit-transition: all .6s;
